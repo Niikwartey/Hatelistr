@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+#H {
+	color: #E60000;
+	
+	background-color: white;
+}
+
+.navbar {
+	color: white;
+	background-color: #E60000;
+}
+
+body {
+	padding-top: 40px;
+}
